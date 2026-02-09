@@ -18,7 +18,7 @@ public class twoDArray {
         for(int i=0;i<rows;i++){
             for(int j=0;j<cols;j++){
                 if(arr[i][j]==search){
-                    System.out.println("Elemnt found at index:"+i+","+j);
+                    System.out.println("Elemnt found at index:"+i+j);
                 }
             }
         }
